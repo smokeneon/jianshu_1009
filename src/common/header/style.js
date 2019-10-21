@@ -131,6 +131,7 @@ export const SearchInfoTitle = styled.div`
 export const SearchInfoSwitch = styled.span`
     float:right;
     font-size:13px;
+    cursor:pointer;
 `
 
 export const SearchInfoList = styled.div`
